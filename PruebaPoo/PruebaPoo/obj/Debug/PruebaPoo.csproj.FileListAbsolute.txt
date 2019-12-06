@@ -1,0 +1,19 @@
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe.config
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.pdb
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.csprojAssemblyReference.cache
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.csproj.CoreCompileInputs.cache
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.exe
+C:\Users\PC 18\source\repos\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.pdb
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe.config
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.pdb
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.csprojAssemblyReference.cache
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.exe
+C:\Users\Mndz0\Desktop\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.pdb
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe.config
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.exe
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\bin\Debug\PruebaPoo.pdb
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.csprojAssemblyReference.cache
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.exe
+C:\Users\diego\Music\PruebaPoo\PruebaPoo\obj\Debug\PruebaPoo.pdb
